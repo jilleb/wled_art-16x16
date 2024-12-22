@@ -17,3 +17,8 @@ Presets are created with WLED Pixel Art Converter. You can use the presets by ad
 ## Vincent van Gogh - Starry Night
 [vincent_van_gogh_-_starry_night.json](vincent_van_gogh_-_starry_night.json)
 ![image](https://github.com/user-attachments/assets/316ec0a5-77c2-4042-bb1a-1d9381631130)
+
+
+## Edvard Munch - The Scream
+[edvard_munch_-_the_scream.json](edvard_munch_-_the_scream.json)
+![image](https://github.com/user-attachments/assets/22f9a303-b6fa-41b8-a74d-16a19d73893b)
