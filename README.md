@@ -18,6 +18,10 @@ Presets are created with WLED Pixel Art Converter. You can use the presets by ad
 [vincent_van_gogh_-_starry_night.json](vincent_van_gogh_-_starry_night.json)
 ![image](https://github.com/user-attachments/assets/316ec0a5-77c2-4042-bb1a-1d9381631130)
 
+## Vincent van Gogh - Self portrait with straw hat:
+[vincent_van_gogh_-_self_portrait.json](vincent_van_gogh_-_self_portrait.json)
+![image](https://github.com/user-attachments/assets/dd37f827-fc43-4173-9912-5535779af6ca)
+
 
 ## Edvard Munch - The Scream
 [edvard_munch_-_the_scream.json](edvard_munch_-_the_scream.json)
